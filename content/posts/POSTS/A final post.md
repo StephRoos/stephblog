@@ -7,6 +7,7 @@ tags:
   - blog
 ---
 
-TEST TEST
+TEST 
+[[A new post]]
 
 ![Image Description](/images/IQR_img1.png)
