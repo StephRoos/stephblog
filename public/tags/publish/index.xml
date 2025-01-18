@@ -13,10 +13,10 @@
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/posts/a-final-post/</guid>
-      <description>TEST [[A new post]]</description>
+      <description>TEST A new post</description>
       <content>&lt;p&gt;TEST
-[[A new post]]&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/IQR_img1.png&#34;&gt;&lt;/p&gt;
+&lt;a href=&#34;/posts/posts/a-new-post/&#34;&gt;A new post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;SQL_img1&#34; src=&#34;SQL_img1.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     

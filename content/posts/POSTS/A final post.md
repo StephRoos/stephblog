@@ -8,6 +8,6 @@ tags:
 ---
 
 TEST 
-[[A new post]]
+[A new post](A%20new%20post.md)
 
-![Image Description](/images/IQR_img1.png)
+![SQL_img1](SQL_img1.png)
