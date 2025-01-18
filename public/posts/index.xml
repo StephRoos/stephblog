@@ -13,10 +13,8 @@
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/posts/deuxi%C3%A8me-post/</guid>
-      <description>Ceci est mon deuxième post
-![[Pasted image 20250118221921.jpg]]</description>
+      <description>Ceci est mon deuxième post</description>
       <content>&lt;p&gt;Ceci est mon deuxième post&lt;/p&gt;
-&lt;p&gt;![[Pasted image 20250118221921.jpg]]&lt;/p&gt;
 </content>
     </item>
     
@@ -27,9 +25,10 @@
       
       <guid>/posts/posts/premier-post/</guid>
       <description>Ceci est mon premier post
-![[Pasted image 20250118221815.jpg]]</description>
+[[Deuxième Post]]</description>
       <content>&lt;p&gt;Ceci est mon premier post&lt;/p&gt;
-&lt;p&gt;![[Pasted image 20250118221815.jpg]]&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250118222044.png&#34;&gt;
+[[Deuxième Post]]&lt;/p&gt;
 </content>
     </item>
     

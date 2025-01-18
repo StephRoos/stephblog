@@ -9,4 +9,6 @@ tags:
 
 Ceci est mon premier post
 
-![[Pasted image 20250118221815.jpg]]
+![Image Description](/images/Pasted%20image%2020250118222044.png)
+[[Deuxième Post]]
+
