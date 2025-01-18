@@ -10,4 +10,6 @@ tags:
 TEST 
 [A new post](A%20new%20post.md)
 
-![SQL_img1](SQL_img1.png)
+
+![](Détection_anomalies_img2.png)
+
