@@ -11,3 +11,5 @@ TEST
 
 ![Image Description](/images/Détection_anomalies_img2.png)
 
+[Obsidian Pipeline](Obsidian%20Pipeline.md)
+
