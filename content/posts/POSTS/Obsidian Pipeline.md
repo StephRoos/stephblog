@@ -14,4 +14,4 @@ qsdf
 
 qsdf
 
-![[NaNs_img2.png]]
+![Image Description](/images/NaNs_img2.png)

@@ -7,7 +7,7 @@ tags:
   - blog
 ---
 
-![[Pasted image 20250118211754.png]]
+![Image Description](/images/Pasted%20image%2020250118211754.png)
 
 sqfsqdqfs
 
