@@ -1,5 +1,5 @@
 ---
-title: Obsilidan Pipeline
+title: A new post
 date: 2025-01-18
 draft: false
 tags:
