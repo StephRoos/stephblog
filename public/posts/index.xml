@@ -8,81 +8,28 @@
     <language>en</language>
     <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A final post</title>
-      <link>/posts/posts/a-final-post/</link>
+      <title>Deuxième Post</title>
+      <link>/posts/posts/deuxi%C3%A8me-post/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/posts/a-final-post/</guid>
-      <description>TEST
-Obsidian Pipeline</description>
-      <content>&lt;p&gt;TEST&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/D%C3%A9tection_anomalies_img2.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;/posts/posts/obsidian-pipeline/&#34;&gt;Obsidian Pipeline&lt;/a&gt;&lt;/p&gt;
+      <guid>/posts/posts/deuxi%C3%A8me-post/</guid>
+      <description>Ceci est mon deuxième post
+![[Pasted image 20250118221921.jpg]]</description>
+      <content>&lt;p&gt;Ceci est mon deuxième post&lt;/p&gt;
+&lt;p&gt;![[Pasted image 20250118221921.jpg]]&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>A new post</title>
-      <link>/posts/posts/a-new-post/</link>
+      <title>Premier Post</title>
+      <link>/posts/posts/premier-post/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/posts/a-new-post/</guid>
-      <description>TESTING 123</description>
-      <content>&lt;h1 id=&#34;testing&#34;&gt;TESTING&lt;/h1&gt;
-&lt;p&gt;123&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250118205956.png&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Essai</title>
-      <link>/posts/posts/essai/</link>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/posts/essai/</guid>
-      <description>Another post
-Essai d&amp;rsquo;un post
-Blablablablabla bla</description>
-      <content>&lt;p&gt;&lt;a href=&#34;/posts/posts/another-post/&#34;&gt;Another post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Essai d&amp;rsquo;un post&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/D%C3%A9tection_anomalies_img1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/JOIN_img3.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Blablablablabla bla&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Obsilidan Pipeline</title>
-      <link>/posts/posts/obsidian-pipeline/</link>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/posts/obsidian-pipeline/</guid>
-      <description>ijfhqsdkjhf
-qsdfqsdf
-qsdf
-qsdf</description>
-      <content>&lt;p&gt;ijfhqsdkjhf&lt;/p&gt;
-&lt;p&gt;qsdfqsdf&lt;/p&gt;
-&lt;p&gt;qsdf&lt;/p&gt;
-&lt;p&gt;qsdf&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/NaNs_img2.png&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Please work</title>
-      <link>/posts/posts/another-post/</link>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/posts/another-post/</guid>
-      <description>
-sqfsqdqfs
-dfsqf
-YESSSS </description>
-      <content>&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250118211754.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;sqfsqdqfs&lt;/p&gt;
-&lt;p&gt;dfsqf&lt;/p&gt;
-&lt;h1 id=&#34;yessss&#34;&gt;YESSSS&lt;/h1&gt;
+      <guid>/posts/posts/premier-post/</guid>
+      <description>Ceci est mon premier post
+![[Pasted image 20250118221815.jpg]]</description>
+      <content>&lt;p&gt;Ceci est mon premier post&lt;/p&gt;
+&lt;p&gt;![[Pasted image 20250118221815.jpg]]&lt;/p&gt;
 </content>
     </item>
     
