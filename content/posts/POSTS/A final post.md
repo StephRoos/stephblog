@@ -13,3 +13,4 @@ TEST
 
 ![](Détection_anomalies_img2.png)
 
+![](JOIN_img3.png)

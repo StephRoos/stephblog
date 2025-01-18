@@ -11,4 +11,4 @@ tags:
 
 123
 
-![Image Description](/images/Pasted%20image%2020250118205956.png)
+![[Pasted image 20250118205956.png]]

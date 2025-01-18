@@ -18,6 +18,7 @@
 &lt;a href=&#34;/posts/posts/a-new-post/&#34;&gt;A new post&lt;/a&gt;
 &lt;a href=&#34;SOURCES/Excalidraw/Analyse%20univari%C3%A9e.md&#34;&gt;Analyse univariée&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;D%C3%A9tection_anomalies_img2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;JOIN_img3.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -27,10 +28,11 @@
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/posts/a-new-post/</guid>
-      <description>TESTING 123</description>
+      <description>TESTING 123
+![[Pasted image 20250118205956.png]]</description>
       <content>&lt;h1 id=&#34;testing&#34;&gt;TESTING&lt;/h1&gt;
 &lt;p&gt;123&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250118205956.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;![[Pasted image 20250118205956.png]]&lt;/p&gt;
 </content>
     </item>
     
@@ -43,12 +45,13 @@
       <description>ijfhqsdkjhf
 qsdfqsdf
 qsdf
-qsdf</description>
+qsdf
+![[NaNs_img2.png]]</description>
       <content>&lt;p&gt;ijfhqsdkjhf&lt;/p&gt;
 &lt;p&gt;qsdfqsdf&lt;/p&gt;
 &lt;p&gt;qsdf&lt;/p&gt;
 &lt;p&gt;qsdf&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/NaNs_img2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;![[NaNs_img2.png]]&lt;/p&gt;
 </content>
     </item>
     
@@ -58,11 +61,11 @@ qsdf</description>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/posts/another-post/</guid>
-      <description>
+      <description>![[Pasted image 20250118211754.png]]
 sqfsqdqfs
 dfsqf
 YESSSS </description>
-      <content>&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250118211754.png&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;![[Pasted image 20250118211754.png]]&lt;/p&gt;
 &lt;p&gt;sqfsqdqfs&lt;/p&gt;
 &lt;p&gt;dfsqf&lt;/p&gt;
 &lt;h1 id=&#34;yessss&#34;&gt;YESSSS&lt;/h1&gt;
