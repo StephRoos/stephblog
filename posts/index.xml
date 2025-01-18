@@ -13,9 +13,11 @@
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/posts/a-final-post/</guid>
-      <description>TEST</description>
+      <description>TEST
+Obsidian Pipeline</description>
       <content>&lt;p&gt;TEST&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/D%C3%A9tection_anomalies_img2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/posts/posts/obsidian-pipeline/&#34;&gt;Obsidian Pipeline&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
