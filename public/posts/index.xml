@@ -35,6 +35,23 @@ Obsidian Pipeline</description>
     </item>
     
     <item>
+      <title>Essai</title>
+      <link>/posts/posts/essai/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/posts/essai/</guid>
+      <description>Another post
+Essai d&amp;rsquo;un post
+Blablabla</description>
+      <content>&lt;p&gt;&lt;a href=&#34;/posts/posts/another-post/&#34;&gt;Another post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Essai d&amp;rsquo;un post&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/D%C3%A9tection_anomalies_img1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/JOIN_img3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Blablabla&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Obsilidan Pipeline</title>
       <link>/posts/posts/obsidian-pipeline/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
