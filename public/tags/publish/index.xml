@@ -9,6 +9,19 @@
     <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/publish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsilidan Pipeline</title>
+      <link>/posts/posts/a-new-post/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/posts/a-new-post/</guid>
+      <description>TESTING 123</description>
+      <content>&lt;h1 id=&#34;testing&#34;&gt;TESTING&lt;/h1&gt;
+&lt;p&gt;123&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250118205956.png&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Obsilidan Pipeline</title>
       <link>/posts/posts/obsidian-pipeline/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       
