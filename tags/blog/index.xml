@@ -25,10 +25,10 @@
       
       <guid>/posts/posts/premier-post/</guid>
       <description>Ceci est mon premier post
-[[Deuxième Post]]</description>
+Deuxième Post</description>
       <content>&lt;p&gt;Ceci est mon premier post&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250118222044.png&#34;&gt;
-[[Deuxième Post]]&lt;/p&gt;
+&lt;a href=&#34;/posts/posts/deuxi%C3%A8me-post/&#34;&gt;Deuxième Post&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
