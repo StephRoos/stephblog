@@ -10,5 +10,5 @@ tags:
 Ceci est mon premier post
 
 ![Image Description](/images/Pasted%20image%2020250118222044.png)
-[[Deuxième Post]]
+[Deuxième Post](Deuxi%C3%A8me%20Post.md)
 
